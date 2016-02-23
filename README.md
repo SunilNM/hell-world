@@ -1,2 +1,3 @@
 # hell-world
-learning ppurpose
+learning purpose
+github guidence
